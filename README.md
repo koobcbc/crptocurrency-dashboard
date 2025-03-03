@@ -19,9 +19,16 @@ cd crypto-price-tracker
 npm install
 ```
 
-3. start the dev server
+3. start the dev server (next.js)
 ```bash
 npm run dev
+```
+
+4. start the docusaurus server
+```bash
+cd ..
+cd docs
+npm start
 ```
 
 ### How to view responsiveness on mobile device
