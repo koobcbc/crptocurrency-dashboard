@@ -58,4 +58,9 @@ npm start
 - **Solution**: I was able to figure out to create a separate client component to wrap my QueryClientProvider than adding the client component to my page.js (server component)
 
 2. Apart from working on the Next.js app, this was my first encounter with Docusaurus, so I had to read through its documentation to gain a better understanding of it.
+
+3. Integrating Docusaurus with Next.js via Build Process
+- Instead of requiring users to run separate servers for both Next.js and Docusaurus, I aimed to integrate Docusaurus as a static build within the Next.js application.
+- However, routing conflicts prevented seamless integration, making it challenging to properly serve the Docusaurus-generated index.html within the Next.js environment.
+- I ended up finishing with the run-separate-server solution.
    
