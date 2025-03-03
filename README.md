@@ -4,7 +4,7 @@ A simple cryptocurrency price tracker that fetches live data from a public API a
 - A Next.js Web App for tracking cryptocurrency prices.
 - A Docusaurus Documentation Page explaining the development approach.
 
-<img src="screenshot.png" alt="Crypto Price Tracker Preview" width="800"/>
+<img src="screenshot.png" alt="Crypto Price Tracker Preview" width="330"/>
 
 ## How to Set up the project
 ```bash
