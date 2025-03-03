@@ -30,6 +30,7 @@ cd ..
 cd docs
 npm start
 ```
+- Select yes on prompt: **Would you like to run the app on another port instead? … yes ** to ensure docusaurus runs on http://localhost:3001/
 
 ### How to view responsiveness on mobile device
 - Right click on the page to enter the inspection panel
